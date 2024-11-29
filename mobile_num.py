@@ -1,6 +1,6 @@
 '''
 author-bijin
-date-29/10/2024
+date-29/11/2024
 description- check whether the given number is a valid mobile number or not using functions.
 '''
 from operator import truediv
