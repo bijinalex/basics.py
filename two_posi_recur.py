@@ -11,4 +11,4 @@ def two_positive_number(num1,num2):
 num1=int(input("Enter the first number:"))
 num2=int(input("Enter the second number:"))
 two_positive_number(num1,num2)
-print("sum of the two number is:1",two_positive_number(num1,num2))
+print("sum of the two number is:",two_positive_number(num1,num2))
