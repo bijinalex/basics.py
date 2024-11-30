@@ -15,4 +15,3 @@ if num1>0 and num2>0:
 else:
     print("Enter a positive number")
 gcd(num1,num2)
-print("The greatest common factor is ",gcd(num1,num2))
