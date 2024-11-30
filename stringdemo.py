@@ -7,8 +7,8 @@ Instructions:
     Assign the string "Hello, World!" to a variable.
     Extract the substring "World" from the string.
     Concatenate this substring with the string " Everyone!".
-    Print the final concatenated string.'''
-
+    Print the final concatenated string.
+'''
 
 
 str_var="Hello world"
